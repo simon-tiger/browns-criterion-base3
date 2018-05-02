@@ -12,5 +12,5 @@ just sum up all the red numbers in the top left corners (on all the cards where 
 then double all the red numbers in the top left corners (on all the cards where your friend's number was green) 
 and add all of those together to guess the number.
 
-Watch how Simon does iton YouTube:
+Watch how Simon does it on YouTube:
 https://youtu.be/ht3P23MmQdI
